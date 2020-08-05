@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/logo.svg" width="250px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/logo-git.svg" width="250px" />
 </h1>
 <h1 align="center">Next Level Week</h1>
 <p align="center">Projeto <strong>Ecoleta</strong> desenvolvido durante a Next Level Week da <a href="https://rocketseat.com.br">Rocketseat</a> 🚀👩🏽‍🚀</p>
