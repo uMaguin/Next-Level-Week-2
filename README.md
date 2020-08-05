@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/logo-git.svg" width="250px" />
 </h1>
-<h1 align="center">Next Level Week #2</h1>
+<h1 align="center">Next Level Week #02</h1>
 <p align="center">Projeto <strong>Proffy</strong> desenvolvido durante a Next Level Week #2 da <a href="https://rocketseat.com.br">Rocketseat</a> 🚀👩🏽‍🚀</p>
 <p align="center">
 <a href="https://rocketseat.com.br">
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre a Next Level Week #2: 
+## 🚀 Sobre a Next Level Week #02: 
 
 Durante a primeira semana de agosto de 2020, a Rocketseat disponibilizou um curso para desenvolver uma aplicação completa do 0. No projeto de nível Starter, dediquei 5 dias para o projeto Proffy. Para construir a aplicação utilizei conhecimentos de HTML, CSS e Javascript. 
 
