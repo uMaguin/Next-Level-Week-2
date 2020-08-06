@@ -189,6 +189,7 @@
     border-radius: .8rem;
     cursor: pointer;
     font: 700 1.4rem Archivo;
+    outline: none;
 
     display: flex;
     align-items: center;
