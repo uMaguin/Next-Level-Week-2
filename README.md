@@ -60,7 +60,7 @@ O projeto Proffy é uma plataforma de estudos online. Através de uma busca, o u
 
 ## 🔖 Layout:
 
-Você pode visualizar o layout do projeto Web através [deste link](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web) e do projeto Mobile [aqui](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile). Ambos estão no [Figma](http://figma.com/).
+Você pode visualizar o layout do projeto Web através [deste link](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web).
 
 ---
 
@@ -78,9 +78,6 @@ Em breve.
 
 Em breve.
 
-### Mobile
-
-Em breve.
 
 ## :memo: Licença
 
