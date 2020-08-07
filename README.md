@@ -5,7 +5,7 @@
 <p align="center">Projeto <strong>Proffy</strong> desenvolvido durante a Next Level Week #2 da <a href="https://rocketseat.com.br">Rocketseat</a> 🚀👩🏽‍🚀</p>
 <p align="center">
 <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237159C1">
+    <img alt="badge rocketseat" align="center" src=".github/rocket.svg">
   </a>
 
 ---
