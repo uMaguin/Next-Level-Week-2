@@ -15,6 +15,8 @@
 
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet">
 
+  <script src="/scripts/addField.js" defer></script>
+
 </head>
 
 <!-- ==================================================-->
@@ -91,7 +93,7 @@
 
         <fieldset id="schedule-items">
           <legend>Horários disponíveis
-             <button id="add-time">+ Novo Horário</button>
+             <button type="button" id="add-time">+ Novo Horário</button>
           </legend>
 
           <div class="schedule-item">
@@ -119,32 +121,7 @@
               <input type="time" name="time_to[]" required>
             </div>
           </div>
-
-          <div class="schedule-item">
-            <div class="select-block">
-              <label for="weekday">Dia da semana</label>
-              <select name="weekday[]" required>
-                <option value="">Selecione uma opção</option>
-                <option value="0">Domingo</option>
-                <option value="1">Segunda</option>
-                <option value="2">Terça</option>
-                <option value="3">Quarta</option>
-                <option value="4">Quinta</option>
-                <option value="5">Sexta</option>
-                <option value="6">Sábado</option>
-              </select>
-            </div>
-
-            <div class="input-block">
-              <label for="time-from">Das</label>
-              <input type="time" name="time_from[]" required>
-            </div>
-
-            <div class="input-block">
-              <label for="time-to">Até</label>
-              <input type="time" name="time_to[]" required>
-            </div>
-          </div>
+         
         </fieldset>
       </form>
 
