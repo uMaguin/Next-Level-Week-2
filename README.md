@@ -14,7 +14,7 @@
 
 Durante a primeira semana de agosto de 2020, a Rocketseat disponibilizou um curso para desenvolver uma aplicação completa do 0. No projeto de nível Starter, dediquei 5 dias para o projeto Proffy. Para construir a aplicação utilizei conhecimentos de HTML, CSS e Javascript. 
 
-### 📚 Grade do curso
+## 📚 Grade do curso:
 
 <details>
   <summary>Aula 01 | Acelerando a sua Evolução </summary>
