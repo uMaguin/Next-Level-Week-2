@@ -58,11 +58,29 @@ Durante a primeira semana de agosto de 2020, a Rocketseat disponibilizou um curs
 
 O projeto Proffy é uma plataforma de estudos online. Através de uma busca, o usuário pode encontrar aulas de diferentes matérias. As matérias sugeridas para o usuário são obtidas por meio de uma busca no site.
 
+## 🔖 Layout:
+
+Você pode visualizar o layout do projeto Web através [deste link](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web) e do projeto Mobile [aqui](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile). Ambos estão no [Figma](http://figma.com/).
+
 ---
 
 <!-- <img src="./icones/gif.gif" align="center"></img> -->
 
 <!-- --- -->
+
+## 🧭 Como rodar o projeto
+
+### Backend
+
+Em breve.
+
+### Front-end
+
+Em breve.
+
+### Mobile
+
+Em breve.
 
 ## :memo: Licença
 
