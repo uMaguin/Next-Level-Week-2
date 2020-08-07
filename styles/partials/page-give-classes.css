@@ -140,6 +140,13 @@
         padding: 40px 64px;
 
         display: flex;
-        
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    #page-give-classes main footer button {
+        margin-top: 0;
+
+        width: 200px;
     }
 }
