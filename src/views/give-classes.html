@@ -72,28 +72,23 @@
             <label for="subject">Máteria</label>
             <select name="subject" id="subject" required>
               <option value="">Selecine uma opção</option>
-              <option value="1">Artes</option>
-              <option value="2">Biologia</option>
-              <option value="3">Ciências</option>
-              <option value="4">Educação física</option>
-              <option value="5">Física</option>
-              <option value="6">Geografia</option>
-              <option value="7">História</option>
-              <option value="8">Matemática</option>
-              <option value="9">Português</option>
-              <option value="10">Química</option>
+              {%for subject in subjects %}
+              <option value="{{loop.index}}">
+                {{subject}}
+              </option>
+              {%endfor%}
             </select>
           </div>
 
           <div class="input-block">
             <label for="cost">Custo da sua hora/aula <small>(R$)</small></label>
-            <input type="cost" id="cost" type="number" required>
+            <input name="cost" type="cost" id="cost" type="number" required>
           </div>
         </fieldset>
 
         <fieldset id="schedule-items">
           <legend>Horários disponíveis
-             <button type="button" id="add-time">+ Novo Horário</button>
+            <button type="button" id="add-time">+ Novo Horário</button>
           </legend>
 
           <div class="schedule-item">
@@ -101,13 +96,11 @@
               <label for="weekday">Dia da semana</label>
               <select name="weekday[]" required>
                 <option value="">Selecione uma opção</option>
-                <option value="0">Domingo</option>
-                <option value="1">Segunda</option>
-                <option value="2">Terça</option>
-                <option value="3">Quarta</option>
-                <option value="4">Quinta</option>
-                <option value="5">Sexta</option>
-                <option value="6">Sábado</option>
+                {%for weekday in weekdays %}
+                <option value="{{loop.index0}}">
+                  {{weekday}}
+                </option>
+                {%endfor%}
               </select>
             </div>
 
@@ -121,7 +114,7 @@
               <input type="time" name="time_to[]" required>
             </div>
           </div>
-         
+
         </fieldset>
       </form>
 
