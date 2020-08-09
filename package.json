@@ -1,0 +1,23 @@
+{
+  "name": "nlw",
+  "description": "<h1 align=\"center\">\r     <img alt=\"NextLevelWeek\" title=\"#NextLevelWeek\" src=\"./.github/logo-git.svg\" width=\"250px\" />\r </h1>\r <h1 align=\"center\">Next Level Week #02</h1>\r <p align=\"center\">Projeto <strong>Proffy</strong> desenvolvido durante a Next Level Week #2 da <a href=\"https://rocketseat.com.br\">Rocketseat</a> 🚀👩🏽‍🚀</p>\r <p align=\"center\">\r <a href=\"https://rocketseat.com.br\">\r     <img alt=\"badge rocketseat\" align=\"center\" src=\".github/rocket.svg\">\r   </a>",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uMaguin/Next-Level-Week-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uMaguin/Next-Level-Week-2/issues"
+  },
+  "homepage": "https://github.com/uMaguin/Next-Level-Week-2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
