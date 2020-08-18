@@ -73,13 +73,21 @@ Você pode visualizar o layout do projeto Web através [deste link](https://www.
 
 ## 🧭 Como rodar o projeto
 
-### Backend
+```bash
+# Clonar o repositório
+git clone https://github.com/guilhermecapitao/proffy-discovery
 
-Em breve.
+# Entrar no diretório
+cd proffy-discovery
 
-### Front-end
+# Baixar as dependências
+npm i
 
-Em breve.
+# Executar o servidor
+npm run dev
+```
+
+Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 
 ## :memo: Licença
