@@ -75,10 +75,10 @@ Você pode visualizar o layout do projeto Web através [deste link](https://www.
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
+git clone https://github.com/uMaguin/Next-Level-Week-2
 
 # Entrar no diretório
-cd proffy-discovery
+cd nlw
 
 # Baixar as dependências
 npm i
