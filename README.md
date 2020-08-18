@@ -78,7 +78,7 @@ Você pode visualizar o layout do projeto Web através [deste link](https://www.
 git clone https://github.com/uMaguin/Next-Level-Week-2
 
 # Entrar no diretório
-cd nlw
+cd Next-Level-Week-2
 
 # Baixar as dependências
 npm i
