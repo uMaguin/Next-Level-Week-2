@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre a Next Level Week #02: 
 
-Durante a primeira semana de agosto de 2020, a Rocketseat disponibilizou um curso para desenvolver uma aplicação completa do 0. No projeto de nível Starter, dediquei 5 dias para o projeto Proffy. Para construir a aplicação utilizei conhecimentos de HTML, CSS e Javascript. 
+Durante a primeira semana de agosto de 2020, a Rocketseat disponibilizou um curso para desenvolver uma aplicação completa do 0. No projeto de nível Starter, dediquei 5 dias para o projeto Proffy. <!--Para construir a aplicação utilizei conhecimentos de HTML, CSS e Javascript.-->
 
 
 ## 📚 Sobre o projeto:
@@ -67,9 +67,9 @@ Você pode visualizar o layout do projeto Web através [deste link](https://www.
 
 ---
 
-<!-- <img src="./icones/gif.gif" align="center"></img> -->
+<img src=".github/design.png" align="center"></img>
 
-<!-- --- -->
+---
 
 ## 🧭 Como rodar o projeto
 
@@ -78,7 +78,7 @@ Você pode visualizar o layout do projeto Web através [deste link](https://www.
 git clone https://github.com/uMaguin/Next-Level-Week-2
 
 # Entrar no diretório
-cd Next-Level-Week-2
+cd nlw
 
 # Baixar as dependências
 npm i
