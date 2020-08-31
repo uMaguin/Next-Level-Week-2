@@ -67,7 +67,7 @@ Você pode visualizar o layout do projeto Web através [deste link](https://www.
 
 ---
 
-<img src=".github/design.png" align="center"></img>
+<img src="./.github/design.png" align="center"></img>
 
 ---
 
